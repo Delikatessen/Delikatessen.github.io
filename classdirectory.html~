@@ -1,0 +1,15 @@
+<!D0CTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>Class Directory</title>
+  </head>
+  <body>
+    <h1>Class Directory</h1>
+    <a href="index.html"><p>Go Back</p></a>
+    <a href="cs1.html"><h3>Computer Science I (Allen High School 2021-2022)</h3></a>
+    <a href="cs2.html"><h3>Computer Science II (Allen High School 2022-2023)</h3></a>
+    <a href="intd1.html"><h3>Interior Design I (Allen High School 2022-2023)</h3></a>
+    <a href="theater.html"><h3>Theater Lighting Work</h3></a>
+    <a href="productions.html"><h3>Theater Productions</h3></a>
+    <a href="oos.html"><h3>Personal Projects</h3></a>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>Changelog</title>
+  </head>
+  <body>
+    <div class="indexdiv.html">
+      <h1>Changelog</h1>
+      <h4>August 31st 2022</h4>
+      <p>Added Changelog</p>
+      <p>CS2 Page now accessible</p>

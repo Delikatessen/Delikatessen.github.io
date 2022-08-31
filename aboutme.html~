@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>About Me</title>
+  </head>
+  <body>
+    <h1>About Me</h1>
+    <a href="index.html"><p>Go Back</p></a>
+    <p>Hello, I'm Loren Pontiff, a Computer Science II and Technical Theater student at Allen High School.</p>
+      <h1>Computer Science</h1>
+      <p>Outside of school, I've mainly focused on game development and 3D rendering. I've grown particularly fond of the 2004 Valve Source Engine, and have been primarily using that for developing my own game projects. I'm currently on multiple development teams that are working to make <a href="oos.html">new campaigns</a> for the 2011 video game Portal 2.
+      <br><br>
+      I've also been learning programming langauges such as Python, Java, and Swift, and hope to become fluent enough to create entire projects from scratch, specifically those that are extremely practical and can help other developers. I also want to learn these languages to be able to further my skills in game development, I find that a lot of the things I want to do require advanced knowledge of these languages (who would've guessed), and those ambitions are really pushing my desire to continue. I've also been learning blender! Slowly but surely, I've been trying to figure out how to make really nice looking renderings, though I am extremely terrible at texturing so far.
+      <br><br>
+      I hope to continue Computer Science throughout the rest of highschool, and college as well. I'm currently pursuing Audio-Visual technology as a career, and Computer Science would absolutely help with that.
+    </p>
+      <h1>Technical Theater</h1>
+    <p>Ever since middle school, I've been doing technical theater work for in and out of school productions. Since the beginning of 10th grade, I've been the head of the lighting department for all <a href="ahsprods.html">AHS Theater Shows</a>. I've been professionally trained on ETC's EOS Lighting Control Board Series, and am trained to assemble, address, and program static, moving, and special effect fixtures.
+    </p>

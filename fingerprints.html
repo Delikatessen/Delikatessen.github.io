@@ -1,0 +1,25 @@
+<!D0CTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>HTML Fingerprints</title>
+  </head>
+  <body>
+    <div class="indexdiv">
+    <h1>HTML Fingerprints</h1>
+    <a href="index.html"><p>Go Back</p></a>
+    <p>HTTPS, or Hypertext Transfer Protocol (Secure), is a layer of encryption that sites can use that protect user and site data. More and more sites are switching over to using it all the time, as it's a great way for every user's privacy and security to be strengthened.<br><br>
+      Unfortunately, corporations feel insecure and threatened by this encryption, so many of them have turned to using an HTTPS Proxy Appliance in order to combat this layer of user privacy. HTTPS Proxy Appliances are a surmount to the encryption that allows your corporation to see every action you do on the internet, and that is no exaggeration. The Proxy Appliance is able to log all information sent from your browser by acting as a mid-way point between your browser and the network you're communicating with, which let's it intercept (and potentially log) any and all information sent between you and the network. This removes any basic security users on the network would normally have, making their information fully vulnerable.<br><br>
+      It's not just corporations, either. A similar method is used for cyberattacks, where the attacker acts as a middle man in transmitting information between two parties (without either parties knowledge). This is known as a MITM (Man In The Middle attack). Not only can the attacker obtain personal information relating to the individuals, but can also inject new messages and information to be recieved by the users.<br><br>
+      What's worse is that there's nothing you can even do to stop it, Proxy Appliances are fool proof. Luckily for us, security certificates are too. While we can't prevent Proxy Appliances from doing their job, we can almost always detect when one is being used. Hashes are an algorithm which summarizes the contents of a site's security certificate, and are extremely sensitive to information changes. Part of how Proxy Appliances work are by using fake spoofed security certificates, and cannot duplicate a genuine remote server's certificate. This means if you believe you're being intercepted by a corporation or third party, you can use <a href="www.grc.com/fingerprints.htm"> GRC's Fingerprint Tool</a> to compare the hash being provided to your browser with the genuine hash. If you're being intercepted, it'll be extremely easy to notice the differences in hashes.<br><br>
+      GRC'S Fingerprint Tool is amazing, but it can result in false positive (An incorrect indication of a certain condition) in certain circumstances. Larger companies (specifically those with a dominating web presence such as Google) may distribute more than one security certificate, and send a different certificate to your browser and the GRC page, resulting in what appears to be an interception. To combat this, it's highly reccomended to use sites that use a single certificate, so that you and GRC without a doubt recieve the same hash. False negatives (An incorrect indication of the lacking of a condition), are impossible. As stated, a Proxy Appliance cannot duplicate a security certificate's hash, and therefore cannot result in a negative when interception is present.<br><br>
+      Companies are completely allowed to do this, too. Under federal and more specifically texas law, any corporation is completely allowed to monitor network activity given they follow the proper policies and guidelines, no matter how morally skewed it may seem.
+      <h1>Non Intercepted Connection</h1><br>
+      <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmRlvsuFWyIOSc_SFtKnJF1QyexAOQLJM53PHO3JIkw7H6Ka62a9_gZffteGlB38U4WC9sK_W1Q=w1325-h696"><br>
+      <h1>Intercepted Connection</h1><br>
+      <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmQGS_GYBdddu1CTpviidv9GT6O8Hl7Iky4CA6i5C5t78JqkXOVukoJYq4AYK6nRIkUWFX8-RDM=w1325-h696"><br>
+      <h1>Works Cited</h1>
+    <p>Gibson, S., & CORPORATION, G. R. (n.d.). Grc | Fingerprints. Home of Gibson Research Corporation.<br>https://www.grc.com/fingerprints.htm
+<br><br>
+      Luotonen, Altis. (n.d.). World-Wide Web Proxies. Courses | Computer Science | Virginia Tech.<br>https://courses.cs.vt.edu/~cs4244/spring.09/documents/Proxies.pdf<br><br>
+      Wang, Wyglinski. (2016). Detection of man-in-the-middle attacks using physical layer wireless security techniques. Wiley Online Library.<br>https://onlinelibrary.wiley.com/doi/epdf/10.1002/wcm.2527</p>
