@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../../indexstyle.css">
+    <title>Optimal Sort</title>
+  </head>
+  <body>
+    <div class="indexdiv">
+      <h1>Optimal Sort</h1>
+      <a href="../../cs2.html"><p>Return</p>
+      <h3>Students Involved:</h3>
+      <p>Helen Giordano<p>
+      <p>Mehak Jay</p>
+      <h3>Github Link</h3>
+      <a href="https://github.com/Mehak-J/mehak-portfolio/blob/third-branch/CS-II/Projects/Sort.java"><p>Click Here</p></a>
+      <h3>Project Information</h3>
+      <a href="https://docs.google.com/spreadsheets/d/1lknb2NyO-0WrmqDVKj9QaYz-CTwR1VLP0bNVpabOllQ/edit#gid=0"><p>Project Summary</p></a>
+      <a href="https://docs.google.com/spreadsheets/d/1PjjcTYayArXowJIYs0BeK4bjWsF_Tt6mXi74sdemo2M/edit#gid=516733551"><p>Data Averages</p></a>
+      <h3>Flowchart</h3>
+      <img src="https://drive.google.com/uc?export=view&id=1EJ2K69m6JMaJsgYrVJQOJZYpDYCQej9x">
+    </div>
+  </body>
+</html>
