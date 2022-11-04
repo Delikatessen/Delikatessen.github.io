@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link type="text/css" rel="stylesheet" href="../../../indexstyle.css"/>
+    <meta name="viewport" content="width=device0width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Digital Porfolio</title>
+  </head>
+  <body>
+    <div class="borderdiv">
+      <div class="indexdiv">
+	<h1>Business Plan</h1>
+	<h3>My Group</h3>
+	<a href="https://codermerlin.com/users/mason-graham/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html"><p>unIQue - Mason Graham</p></a>
+	<h3>
+      <h1>The Hunger Crisis</h1>
+      <p class="alert">I have joined a different group and this project is now defunct.</p>
+      <h3>Identity</h3>
+      <p>What if we could make an algorithm to help people understand the true nature of the global hunger crisis? What if we could expose the starvation that our corporations refuse to help fight? That is the foundation that this project will be built upon.</p>
+      <h3>Problem</h3>
+      <p>An average of 14,000 people die from starvation everyday, and the ones with power are refusing to help stop it. Why are we standing by while people die from an issue that could be stopped annually with 40 billion dollars? (A number that could be easily achieved if our major corporations invested into it)</p>
+      <h3>Solution and Target Market</h3>
+      <p>It's unlikely to directly reach audiences of wealth and power, so the next solution is simply spreading awareness. By calculating the average food production of each country, along with the global population, we can find estimated data points of multiple areas of interest, and use these data points to spread awareness of the issue to the general public. Awareness is step one to making a change.</p>
+      <h3>Competition</h3>
+      <p>This project is most comparable to a non-profit, and therefore would have no competition.</p>
+      <h3>Revenue Streams</h3>
+      <p>Non-Invasive Advertisements and Donations would likely be the main source of income for the site, nothing would be locked behind a paywall as that destroys the purpose of the site.</p>
+      <h3>Expenses</h3>
+      <p>Keeping up a domain and advertising the site would be the only forseeable expenses, hopefully covered by on-site advertisements and donations, though could easily be paid out of pocket.</p>
+      <h3>Team and Key Roles</h3>
+      <p>The ideal development team for a project such as this would be: Data specialist, html designer, and an algorithm engineer.</p>
+      <h3>Milestones</h3>
+      <p>Completion of algorithm, first version of the site, a final public version of the site, release of site advertising, setup of a donation system, and the gain of mass traction.</p>
+    </div>
+    </div>
+  </body>
+</html>

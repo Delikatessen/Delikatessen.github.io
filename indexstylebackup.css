@@ -1,6 +1,6 @@
 body {
     font-family:SpaceGroteskMedium,Roboto,sans-serif;
-    background-color: #FAF9F6;
+    background-color: #00000;
     margin-left:auto;
     margin-right:auto;
     text-align:center;
@@ -10,10 +10,10 @@ body {
 .alert {
     font-family:SpaceGroteskMedium,Roboto,sans-serif;
     animation-name:load2s;
-    animation-duration:2s;
+    animationduration:2s;
     font-size:20px;
     animation:fading 1s infinite;
-    -webkit-animation:fading 1s infinite;
+    -webkit-animation: fading 1s infinite;
 }
 @keyframes fading {
     0%   { color:#36454F; }
