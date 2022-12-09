@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>Sorry!</title>
+  </head>
+  <body>
+    <div class="indexdiv">
+    <h1>Sorting</h1>
+    <a href="../../cs2.html"><p>Go Back</p></a>
+    <a rhef="https://docs.google.com/spreadsheets/d/1pRbif9tHSdYGWT1F9vLbpfPiWU7C2l4GxY_uVAoDa1U/edit?usp=sharing"><h2>Data Spreadsheet</h2></a>
+    </div>
+  </body>
+</html>
