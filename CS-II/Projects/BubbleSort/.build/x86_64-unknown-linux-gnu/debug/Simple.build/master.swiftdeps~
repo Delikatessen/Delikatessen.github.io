@@ -1,0 +1,6 @@
+version: "Swift version 5.7.1 (swift-5.7.1-RELEASE)"
+options: "3e5d8deb47a6e7a21ce0747611257fe7168ed674c1999a3b6e852034b6c03aa5"
+build_start_time: [1670549200, 271846055]
+build_end_time: [1670549200, 368160963]
+inputs:
+  "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/main.swift": !private [1670544836, 329406261]

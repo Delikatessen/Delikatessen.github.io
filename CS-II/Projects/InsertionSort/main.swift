@@ -1,46 +1,26 @@
-// Define the swap function
-func swap(strings: inout [String], firstIndex: Int, secondIndex: Int) {
-    let temp = strings[firstIndex]
-    strings[firstIndex] = strings[secondIndex]
-    strings[secondIndex] = temp
+import Foundation
+
+//get the input file, STDIN is so confusing
+let arguments = CommandLine.arguments
+guard arguments.count > 1 else {
+    exit(1)
 }
 
-// Define the Bubble Sort function
-func bubbleSort(strings: inout [String]) {
-    // Check if the array is already sorted
-    var isSorted = true
-    for index in 1..<strings.count {
-        if strings[index] < strings[index - 1] {
-            isSorted = false
-            break
-        }
+let inputFile = arguments[1]
+let input = try! String(contentsOfFile: inputFile, encoding: .utf8)
+let inputArray = input.components(separatedBy: "\n")
+
+//output stuff
+var outputArray = inputArray
+for i in 1..<outputArray.count {
+    let currentElement = outputArray[i]
+    var j = i
+    while j > 0 && outputArray[j-1] > currentElement {
+        outputArray[j] = outputArray[j-1]
+        j -= 1
     }
-
-    // If the array is already sorted, return
-    if isSorted {
-        return
-    }
-
-    // Perform the bubble sort
-    for outer in 0..<strings.count {
-        for inner in 0..<strings.count - outer - 1 {
-            if strings[inner] > strings[inner + 1] {
-                swap(strings: &strings, firstIndex: inner, secondIndex: inner + 1)
-            }
-        }
-    }
+    outputArray[j] = currentElement
 }
 
-// Read the strings from STDIN
-var strings = [String]()
-while let line = readLine() {
-    strings.append(line)
-}
-
-// Perform the bubble sort
-bubbleSort(strings: &strings)
-
-// Print the sorted strings
-for string in strings {
-    print(string)
-}
+//print owa owa
+print(outputArray.joined(separator: "\n"))

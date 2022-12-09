@@ -1,13 +1,11 @@
-// Define the swap function
 func swap(strings: inout [String], firstIndex: Int, secondIndex: Int) {
     let temp = strings[firstIndex]
     strings[firstIndex] = strings[secondIndex]
     strings[secondIndex] = temp
 }
 
-// Define the Bubble Sort function
 func bubbleSort(strings: inout [String]) {
-    // Check if the array is already sorted
+    //do I even need to check for sortment? seems redundant might increase times
     var isSorted = true
     for index in 1..<strings.count {
         if strings[index] < strings[index - 1] {
@@ -16,12 +14,10 @@ func bubbleSort(strings: inout [String]) {
         }
     }
 
-    // If the array is already sorted, return
     if isSorted {
         return
     }
 
-    // Perform the bubble sort
     for outer in 0..<strings.count {
         for inner in 0..<strings.count - outer - 1 {
             if strings[inner] > strings[inner + 1] {
@@ -31,16 +27,13 @@ func bubbleSort(strings: inout [String]) {
     }
 }
 
-// Read the strings from STDIN
+//stdin
 var strings = [String]()
 while let line = readLine() {
     strings.append(line)
 }
 
-// Perform the bubble sort
 bubbleSort(strings: &strings)
-
-// Print the sorted strings
 for string in strings {
     print(string)
 }

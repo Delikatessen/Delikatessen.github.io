@@ -1,0 +1,69 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Simple-debug.module" : {
+      "executable" : "/usr/bin/swiftc",
+      "importPath" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/main.swift"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "Simple",
+      "moduleOutputPath" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule",
+      "objects" : [
+        "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/main.swift"
+      ],
+      "tempsPath" : "/home/loren-pontiff/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
