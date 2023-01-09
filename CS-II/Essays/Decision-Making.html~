@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="indexstyle.css">
+    <title>Decision Making</title>
+  </head>
+  <body>
+    <div class="indexdiv">
+    <h1>Decision Making</h1>
+    <a href="../../cs2.html"><p>Go Back</p></a>
+    <p>
+      Decision bias is one’s susceptibility to being influenced in their decisions, in a way that more often than not weakens their argument or goal. In the context of our ISP, there are several decision biases that we may be susceptible to, that if not taken into consideration, may put serious flaws into our final product.
+
+      The first and most concerning bias is planning fallacy, as I believe this is the bias our group will be most susceptible to. Planning fallacy is the bias to underestimate the time, resources, and difficulties involved in completing a task. This bias can lead us to set unrealistic goals and deadlines, and can ultimately result in poor performance and disappointment.
+
+      Succeeding planning fallacy would be progress bias, the overestimation of the amount of progress we have made towards a goal. The inevitable effect of this sort of bias would lead us to become complacent and to underestimate the work that still needs to be done, grossly hindering our progress.
+
+      On the other end of the spectrum is safety bias; the tendency to prioritize safety and security over other factors, even when doing so may not be in our best interest. If we don’t balance out and rationalize our limitations and boundaries, we may make overly cautious decisions, which could very easily limit our potential for growth and success.
+
+      Another worrying bias is the IKEA effect. This bias refers to the tendency to place a higher value on things that we have built or created ourselves, even if they are not objectively better than other options. This bias may cause us to overlook deficiencies in our project, rendering it obsolete and useless compared to other solutions.
+
+      Finally, there is the bias of expedience, which is our gravitation towards prioritizing short-term gains over long-term benefits. If we get over excited with the things we can do in the present, we may make decisions that are not sustainable in our long-term interests. This could ultimately kill our project’s promises and end goals.
+
+      To avoid planning fallacy, me and my team can take extensive planning measures offering ample time to finish our goals, without overstressing ourselves. Doing so will allow us to not only feasibly complete each step, but also ease our stress.
+
+      Next, using Github’s issues feature as well as keeping a roadmap will help us stop progress bias. When we keep an objective list of everything that’s been completed, everything that needs to be, and the size of each task, we can create an objective placement of our progress.
+
+      For safety bias, the best course of action would be to just ensure we’re not abandoning our core ideals and objectives for the sake of precaution -- we will strive to do what we intended to do, with the ensured confidence of the planning fallacy and progress bias buffers.
+
+      To stop us falling victim to the IKEA effect, it’ll be important for us to be aware of other solutions that already exist as well as the other ideas that we came up with, and regularly compare them to our own project. By doing this, we can analyze our project’s weak points and tangential features.
+
+      And lastly, bias of expedience. In order to stop bias of expedience, we need to plan every step of our project, and that includes the very early stages. If we instill a system (like github issues) for keeping track of our high priority and low priority tasks, we can safely finish and plan for features.
+
+      If myself and my team can evaluate flaws and weaknesses in our decision making process before they happen, we can increase the quality and diversity of our project.</p>
+    </div>
+  </body>
+</html>
